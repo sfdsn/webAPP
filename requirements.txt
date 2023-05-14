@@ -1,0 +1,4 @@
+pillow
+math
+pandas
+streamlit
